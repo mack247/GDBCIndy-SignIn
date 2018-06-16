@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{CC5FD16D-436D-48AD-A40C-5A424C6E3E79}") = "GDBCIndy.SignInSheet", "GDBCIndy.SignInSheet\GDBCIndy.SignInSheet.ccproj", "{C5550A39-E2D2-46DD-A504-FD62216EF08C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GDBCIndy.SignInSheet_WebRole", "GDBCIndy.SignInSheet_WebRole\GDBCIndy.SignInSheet_WebRole.csproj", "{FF36B11E-CC9A-4130-9FE1-288968DE6486}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C5550A39-E2D2-46DD-A504-FD62216EF08C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5550A39-E2D2-46DD-A504-FD62216EF08C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5550A39-E2D2-46DD-A504-FD62216EF08C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5550A39-E2D2-46DD-A504-FD62216EF08C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FF36B11E-CC9A-4130-9FE1-288968DE6486}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF36B11E-CC9A-4130-9FE1-288968DE6486}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF36B11E-CC9A-4130-9FE1-288968DE6486}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF36B11E-CC9A-4130-9FE1-288968DE6486}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FAA6E95A-4263-43EB-AC07-448D8893EF82}
+	EndGlobalSection
+EndGlobal
